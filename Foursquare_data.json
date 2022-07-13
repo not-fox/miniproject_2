@@ -1,0 +1,456 @@
+{
+    "results": [
+        {
+            "fsq_id": "58cbeed3af5c145e29986fbc",
+            "categories": [
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 176,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.070876,
+                    "longitude": -114.062284
+                },
+                "roof": {
+                    "latitude": 51.070876,
+                    "longitude": -114.062284
+                }
+            },
+            "link": "/v3/places/58cbeed3af5c145e29986fbc",
+            "location": {
+                "address": "2102 Centre St NE",
+                "address_extended": "# 301",
+                "country": "CA",
+                "cross_street": "20 Avenue NE",
+                "formatted_address": "2102 Centre St NE (20 Avenue NE), Calgary AB T2E 2T3",
+                "locality": "Calgary",
+                "postcode": "T2E 2T3",
+                "region": "AB"
+            },
+            "name": "Rosso Coffee Roasters",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b0586eef964a520577622e3",
+            "categories": [
+                {
+                    "id": 13002,
+                    "name": "Bakery",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13236,
+                    "name": "Italian Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 278,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.071701,
+                    "longitude": -114.062282
+                }
+            },
+            "link": "/v3/places/4b0586eef964a520577622e3",
+            "location": {
+                "address": "2202 Centre St NE",
+                "country": "CA",
+                "cross_street": "",
+                "formatted_address": "2202 Centre St NE, Calgary AB T2E 2T5",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Tuxedo"
+                ],
+                "postcode": "T2E 2T5",
+                "region": "AB"
+            },
+            "name": "Lina's Italian Market",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b0586ecf964a520a97522e3",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13315,
+                    "name": "Noodle Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 329,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.067705,
+                    "longitude": -114.063087
+                },
+                "roof": {
+                    "latitude": 51.067705,
+                    "longitude": -114.063087
+                }
+            },
+            "link": "/v3/places/4b0586ecf964a520a97522e3",
+            "location": {
+                "address": "1721 Centre St NW",
+                "country": "CA",
+                "cross_street": "17 Ave NW",
+                "formatted_address": "1721 Centre St NW (17 Ave NW), Calgary AB T2E 2S3",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Calgary-Central"
+                ],
+                "postcode": "T2E 2S3",
+                "region": "AB"
+            },
+            "name": "Sushi Bistro Anzu",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4d53051f7ee1a35d2c33a034",
+            "categories": [
+                {
+                    "id": 16037,
+                    "name": "Playground",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 99,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.069563,
+                    "longitude": -114.061249
+                }
+            },
+            "link": "/v3/places/4d53051f7ee1a35d2c33a034",
+            "location": {
+                "country": "CA",
+                "cross_street": "4 street ne",
+                "formatted_address": "4 street ne, Calgary AB",
+                "locality": "Calgary",
+                "postcode": "",
+                "region": "AB"
+            },
+            "name": "Mount View School Playground",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b47b8def964a520e33b26e3",
+            "categories": [
+                {
+                    "id": 17069,
+                    "name": "Grocery Store / Supermarket",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 258,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.070379,
+                    "longitude": -114.056541
+                },
+                "roof": {
+                    "latitude": 51.070379,
+                    "longitude": -114.056541
+                }
+            },
+            "link": "/v3/places/4b47b8def964a520e33b26e3",
+            "location": {
+                "address": "265 20 Ave NE",
+                "country": "CA",
+                "cross_street": "",
+                "formatted_address": "265 20 Ave NE, Calgary AB T2E 1R1",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Tuxedo"
+                ],
+                "postcode": "T2E 1R1",
+                "region": "AB"
+            },
+            "name": "Italian Super Market Ltd",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b0586eef964a520617622e3",
+            "categories": [
+                {
+                    "id": 17056,
+                    "name": "Flower Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/flowershop_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 136,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.069827,
+                    "longitude": -114.062325
+                }
+            },
+            "link": "/v3/places/4b0586eef964a520617622e3",
+            "location": {
+                "address": "2004 Centre St NE",
+                "country": "CA",
+                "formatted_address": "2004 Centre St NE, Calgary AB T2E 2T1",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Tuxedo"
+                ],
+                "postcode": "T2E 2T1",
+                "region": "AB"
+            },
+            "name": "Red Rose Florist",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b5f675af964a52063b829e3",
+            "categories": [
+                {
+                    "id": 13177,
+                    "name": "Greek Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 223,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.070852,
+                    "longitude": -114.062963
+                },
+                "roof": {
+                    "latitude": 51.070852,
+                    "longitude": -114.062963
+                }
+            },
+            "link": "/v3/places/4b5f675af964a52063b829e3",
+            "location": {
+                "address": "2101 Centre St NW",
+                "country": "CA",
+                "cross_street": "at 20th Ave. NW",
+                "formatted_address": "2101 Centre St NW (at 20th Ave. NW), Calgary AB T2E 2T2",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Tuxedo"
+                ],
+                "postcode": "T2E 2T2",
+                "region": "AB"
+            },
+            "name": "Calypso Greek Taverna",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b13118bf964a520ac9323e3",
+            "categories": [
+                {
+                    "id": 13199,
+                    "name": "Indian Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 322,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.06716,
+                    "longitude": -114.059642
+                },
+                "roof": {
+                    "latitude": 51.06716,
+                    "longitude": -114.059642
+                }
+            },
+            "link": "/v3/places/4b13118bf964a520ac9323e3",
+            "location": {
+                "address": "202 16 Ave NE",
+                "country": "CA",
+                "cross_street": "16 ave and 1 street NE",
+                "formatted_address": "202 16 Ave NE (16 ave and 1 street NE), Calgary AB T2E 1J8",
+                "locality": "Calgary",
+                "postcode": "T2E 1J8",
+                "region": "AB"
+            },
+            "name": "Namskar",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "557c116c498ec492c577db98",
+                        "name": "Indian Restaurant in Calgary - Namskar Restaurant"
+                    }
+                ]
+            },
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4c2ebd2116adc928c785bc9c",
+            "categories": [
+                {
+                    "id": 13035,
+                    "name": "Coffee Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+                    "name": "Starbucks"
+                }
+            ],
+            "distance": 227,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.068526,
+                    "longitude": -114.062315
+                },
+                "roof": {
+                    "latitude": 51.068526,
+                    "longitude": -114.062315
+                }
+            },
+            "link": "/v3/places/4c2ebd2116adc928c785bc9c",
+            "location": {
+                "address": "1818 Centre St NE",
+                "address_extended": "# 20",
+                "country": "CA",
+                "cross_street": "in Safeway",
+                "formatted_address": "1818 Centre St NE (in Safeway), Calgary AB T2E 2S6",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Tuxedo"
+                ],
+                "postcode": "T2E 2S6",
+                "region": "AB"
+            },
+            "name": "Starbucks",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        },
+        {
+            "fsq_id": "4b0586eaf964a520257522e3",
+            "categories": [
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13049,
+                    "name": "Diner",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 405,
+            "geocodes": {
+                "main": {
+                    "latitude": 51.066606,
+                    "longitude": -114.058247
+                },
+                "roof": {
+                    "latitude": 51.066606,
+                    "longitude": -114.058247
+                }
+            },
+            "link": "/v3/places/4b0586eaf964a520257522e3",
+            "location": {
+                "address": "219 16 Ave NE",
+                "country": "CA",
+                "cross_street": "2nd St.",
+                "formatted_address": "219 16 Ave NE (2nd St.), Calgary AB T2E 1J9",
+                "locality": "Calgary",
+                "neighborhood": [
+                    "Regal Terrace"
+                ],
+                "postcode": "T2E 1J9",
+                "region": "AB"
+            },
+            "name": "Peters' Drive-In",
+            "related_places": {},
+            "timezone": "America/Edmonton"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 51.07,
+                    "longitude": -114.06
+                },
+                "radius": 1000
+            }
+        }
+    }
+}
